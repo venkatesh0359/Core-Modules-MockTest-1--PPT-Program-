@@ -1,0 +1,18 @@
+public class DeclareAndInitializeVariables {
+
+    public static void main(String[] args) {
+        
+        int integerVariable = 10;
+
+        
+        double doubleVariable = 10.5;
+
+      
+        String stringVariable = "This is a string.";
+
+       
+        System.out.println(integerVariable);
+        System.out.println(doubleVariable);
+        System.out.println(stringVariable);
+    }
+}
